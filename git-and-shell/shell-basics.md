@@ -1,3 +1,1 @@
-test message 1
-test message 2
-test message 3
+not so boring msg
